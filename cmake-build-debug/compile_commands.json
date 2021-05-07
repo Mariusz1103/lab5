@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-build/googlemock",
+  "command": "/usr/bin/c++   -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googlemock/include -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googlemock -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-build/googlemock",
+  "command": "/usr/bin/c++   -I/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googlemock/include -I/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googlemock -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-build/googletest",
+  "command": "/usr/bin/c++   -I/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -I/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-build/googletest",
+  "command": "/usr/bin/c++   -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/src/lab5",
+  "command": "/usr/bin/c++   -I/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest   -Wall -Wextra -pedantic --std=c++17 -g -D_DEBUG   -std=c++1z -o CMakeFiles/lab.dir/MyListTests.cpp.o -c /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/lab5/MyListTests.cpp",
+  "file": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/lab5/MyListTests.cpp"
+},
+{
+  "directory": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/src/lab5",
+  "command": "/usr/bin/c++   -I/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest   -Wall -Wextra -pedantic --std=c++17 -g -D_DEBUG   -std=c++1z -o CMakeFiles/lab.dir/MySortTests.cpp.o -c /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/lab5/MySortTests.cpp",
+  "file": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/lab5/MySortTests.cpp"
+},
+{
+  "directory": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/src/lab5",
+  "command": "/usr/bin/c++   -I/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-src/googletest   -Wall -Wextra -pedantic --std=c++17 -g -D_DEBUG   -std=c++1z -o CMakeFiles/lab.dir/main.cpp.o -c /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/lab5/main.cpp",
+  "file": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/lab5/main.cpp"
+},
+{
+  "directory": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/src/utils",
+  "command": "/usr/bin/c++     -Wall -Wextra -pedantic --std=c++17 -g -D_DEBUG   -std=c++1z -o CMakeFiles/Utils.dir/argumentParsing.cpp.o -c /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/argumentParsing.cpp",
+  "file": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/argumentParsing.cpp"
+},
+{
+  "directory": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/src/utils",
+  "command": "/usr/bin/c++     -Wall -Wextra -pedantic --std=c++17 -g -D_DEBUG   -std=c++1z -o CMakeFiles/Utils.dir/memoryManagement.cpp.o -c /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/memoryManagement.cpp",
+  "file": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/memoryManagement.cpp"
+},
+{
+  "directory": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/src/utils",
+  "command": "/usr/bin/c++     -Wall -Wextra -pedantic --std=c++17 -g -D_DEBUG   -std=c++1z -o CMakeFiles/Utils.dir/programmerDetails.cpp.o -c /home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/programmerDetails.cpp",
+  "file": "/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/programmerDetails.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-download/CMakeFiles/rebuild_cache.dir
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-download/CMakeFiles/edit_cache.dir
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/cmake-build-debug/googletest-download/CMakeFiles/googletest.dir

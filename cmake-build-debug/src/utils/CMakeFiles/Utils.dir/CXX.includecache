@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/argumentParsing.cpp
+iostream
+-
+iomanip
+-
+cstring
+-
+argumentParsing.h
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/argumentParsing.h
+programmerDetails.h
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/programmerDetails.h
+
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/argumentParsing.h
+programmerDetails.h
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/programmerDetails.h
+
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/memoryManagement.cpp
+memoryManagement.h
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/memoryManagement.h
+
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/memoryManagement.h
+cstdlib
+-
+
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/programmerDetails.cpp
+string
+-
+programmerDetails.h
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/programmerDetails.h
+
+/home/mariusz/C++/lab5/zaj5MyList_mySort_dlaStudentow/src/utils/programmerDetails.h
+
